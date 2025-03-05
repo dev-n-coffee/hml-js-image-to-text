@@ -1,7 +1,7 @@
 ## SIMPLE IMAGE TO TEXT EXAMPLE IN HTML JS
-YouTube Tutorial - https://youtu.be/@TODO
+YouTube Tutorial - https://youtu.be/hwZ5y10DTb4
 
-Written Tutorial - https://devncoffee.com/@TODO/
+Written Tutorial - https://devncoffee.com/extract-text-from-image-html-css/
 
 ## LICENSE
 Copyright by Dev + Coffee
